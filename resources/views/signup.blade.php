@@ -22,7 +22,7 @@
                                 </div>
                                 <button type="submit" class="btn_1 mb-3" style="border: none; width: 100%;">Enviar</button>
                             </form>
-                            <a class="button-link" href="/login">Login</a>
+                            <a class="btn_2" href="/login">Login</a>
                         </div>
                     </div>
                 </div>
